@@ -1,0 +1,12 @@
+/build/*
+/dist/*
+/nbproject/*
+/store/
+/asd.txt
+/bereza.kbm.txt
+/build.xml
+/comment.txt
+/manifest.mf
+/table*
+/water_kbm.txt
+
